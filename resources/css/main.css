@@ -1,0 +1,24 @@
+html {
+    font-family: Verdana, sans-serif;
+    background-color: #000;
+}
+
+h1 {
+    font-weight: normal;
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+}
+
+#main-link {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    display: block;
+}
+
+#video {
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+}
